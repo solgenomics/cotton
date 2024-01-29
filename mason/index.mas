@@ -1,0 +1,19 @@
+<%args>
+$schema
+$static_content_path => undef
+$show_accept_dialog => undef
+</%args>
+
+<center>
+<h1>Welcome to CottonBase!</h1>
+<br />
+<img src="https://revistadeagronegocios.com.br/wp-content/uploads/2021/04/Algodao-BRS-500-B2RF-1024x730.jpg" width="300" />
+<br/>
+<!-- & homepage/carousel.mas & -->
+<br/>
+</center>
+
+<br/>
+
+
+<& homepage/github_pullrequests.mas &>

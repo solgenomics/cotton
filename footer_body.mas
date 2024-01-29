@@ -1,0 +1,83 @@
+<%init>
+  my $tag;
+    my $commit;
+    my $updated;
+
+    system("git -C . rev-parse 2>/dev/null");
+    my $isGit = `echo $?`;
+    if($isGit == 0) {
+        $tag = `git describe --abbrev=0 --tags`;
+        $commit = `git rev-parse --short HEAD`;
+        $updated = `git log -1 --format=%cd`;
+    } else {
+        $tag = eval{ $c->get_conf('version') };
+        $updated = eval{ $c->get_conf('version_updated') };
+    }
+</%init>
+
+<!-- BEGIN SITE SPECIFIC FOOTER. -->
+
+<div id="pagefooter" class="navbar navbar-default" style="margin-top:80px;margin-bottom:0px;min-height:200px">
+
+  <br />
+    <div class="container-fluid">
+      <div class="row">
+	  <div class="col-12 col-md-9">
+            <span style="font-face:arial;font-size:10pt;color:darkgreen;font-weight:light;">BREE<b>DB</b>ASE</span> was developed by the <a href="https://github.com/solgenomics/sgn">Mueller Lab</a>.
+	    <br><br>
+	    <span>CottonBase is hosted by <a href="https://breedinginsight.org">Breeding Insight</a></span><br>
+            <a href="https://breedinginsight.org"><img src="https://breedinginsight.org/wp-content/uploads/2021/03/BI_logo_web_2x.png" width="200"></a>
+	    <br><br>
+	    <span>Breeding Insight is funded by USDA through Cornell University</span>
+          </div>
+          <div class="col-12 col-md-3">
+            <div class="git-version">
+              <p>
+                <strong>Version</strong>
+                <br />
+% if($isGit == 0) {
+                <span class="git-version-commit"><a href="https://github.com/solgenomics/sgn/commits/<% $commit %>"><% $commit %></a></span>&nbsp;
+                <span class="git-version-tag"><a href="https://github.com/solgenomics/sgn/commits/<% $tag %>"><% $tag %></a></span>
+% } else {
+                <span class="git-version-tag"><% $tag %></span>&nbsp;
+% }
+                <br />
+                <span class="git-version-updated"><% $updated %></span>
+              </p>
+            </div>
+          </div>
+        </div>
+    </div>
+
+</div>
+
+
+<!-- <script> -->
+<!-- (function(d, s, id) { -->
+<!--   var js, fjs = d.getElementsByTagName(s)[0]; -->
+<!--   if (d.getElementById(id)) return; -->
+<!--   js = d.createElement(s); js.id = id; -->
+<!--   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.4"; -->
+<!--   fjs.parentNode.insertBefore(js, fjs); -->
+<!-- }(document, 'script', 'facebook-jssdk')); -->
+<!-- </script> -->
+
+<!-- <script src="https://platform.twitter.com/widgets.js" type="text/javascript"></script> -->
+
+
+<style>
+  .git-version {
+    display: inline-block;
+    margin-top: 10px;
+  }
+  .git-version p {
+    color: #aaa;
+    font-size: 90%;
+  }
+  .git-version a {
+    color: #aaa
+  }
+  span.git-version-tag {
+    float: right;
+  }
+</style>
