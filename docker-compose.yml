@@ -5,11 +5,13 @@ services:
 
     image: breedbase/breedbase:latest
 
-    container_name: breedbase_sugarcane_db
+    container_name: breedbase_sugarcane_web
     ports:
-      - 8102:8080
+      - 8105:8080
     volumes:
-      - webdata:/home/production/volume
+      - type: bind
+        source: /export/prod/public_cotton
+        target: /home/production/volume
       - type: bind
         source: empty_db_without.test_users.sql
         target: /home/production/empty_dump.sql
