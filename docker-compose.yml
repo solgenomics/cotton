@@ -5,7 +5,7 @@ services:
 
     image: breedbase/breedbase:latest
 
-    container_name: breedbase_sugarcane_web
+    container_name: breedbase_cotton_web
     ports:
       - 8105:8080
     volumes:
