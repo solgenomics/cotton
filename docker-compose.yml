@@ -20,13 +20,13 @@ services:
         target: /home/production/cxgn/sgn/sgn_local.conf
       - type: bind
         source: mason
-        target: /home/production/cxgn/cassava/mason
+        target: /home/production/cxgn/cotton/mason
       - type: bind
         source: /home/production/cotton/footer_body.mas
         target: /home/production/cxgn/sgn/mason/site/footer/body.mas
       - type: bind
         source: /home/production/cotton/analytics.mas
-        target: /home/production/cxgn/cassava/mason/site/header/analytics.mas
+        target: /home/production/cxgn/cotton/mason/site/header/analytics.mas
       - type: bind
         source: db_dumps
         target: /db_dumps
