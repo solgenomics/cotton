@@ -3,7 +3,7 @@ version: "3.7"
 services:
   breedbase:
 
-    image: breedbase/breedbase:latest
+    image: breedbase/breedbase:v1.05
 
     container_name: breedbase_cotton_web
     ports:
