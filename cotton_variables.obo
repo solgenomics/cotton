@@ -1,0 +1,2100 @@
+format-version: 1.2
+saved-by: vagrant
+default-namespace: cotton_trait
+ontology: cotton_ontology
+
+[Term]
+id: COTTON:0000000
+name: Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001067
+name: SKC_Cmp_pct
+def: "SKC (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001068
+name: SCP_Cmp_pct
+def: "SCP (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001069
+name: FEL_M_pct
+def: "FEL (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001070
+name: E1_M_pct
+def: "E1 (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001071
+name: FMHVI_M_pct
+def: "FM HVI (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001072
+name: QS-1-1-3-5_Cmp_pct
+def: "QS (1,1,3,5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001073
+name: QS-2-1-4-3_Cmp_pct
+def: "QS (2,1,4,3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001074
+name: QS-4.5-2.5-0-3_Cmp_pct
+def: "QS (4.5,2.5,0,3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001075
+name: QS-5-2.5-1.5-1_Cmp_pct
+def: "QS (5,2.5,1.5,1)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001076
+name: QS-5-2.5-1-1.5_Cmp_pct
+def: "QS (5,2.5,1,1.5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001077
+name: FUR_Cmp_pct
+def: "FUR (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001078
+name: LP_Cmp_pct
+def: "LP (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001079
+name: AACys_E_pct
+def: "cysteine (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001080
+name: SCF_M_pct
+def: "SCF %
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001081
+name: GTO_M_pct
+def: "GTO (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001082
+name: AAGly_M_pct
+def: "glycine (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001083
+name: AAIle_M_pct
+def: "isoleucine (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001084
+name: AALeu_M_pct
+def: "leucine (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001085
+name: FALin_M_pct
+def: "linolenic acid (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001086
+name: FIM_M_pct
+def: "FIM (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001087
+name: SNC_M_pct
+def: "SNC (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001088
+name: SP_M_pct
+def: "SP (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001089
+name: CRD_M_pct
+def: "Rd (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001090
+name: AAArg_M_pct
+def: "arginine (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001091
+name: AAAsp_M_pct
+def: "aspartic acid (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001092
+name: AASer_M_pct
+def: "serine (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001093
+name: FASte_M_pct
+def: "stearic acid (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001094
+name: Area_M_pct
+def: "AREA (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001095
+name: AAVal_M_pct
+def: "valine (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001096
+name: LVFM_M_pct
+def: "LVFM (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001097
+name: WASTE_M_pct
+def: "waste (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001098
+name: SOC_M_pct
+def: "SOC (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001099
+name: SPC_M_pct100knl
+def: "SPC (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001100
+name: SFCHVI_M_pct
+def: "SFC HVI (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001101
+name: SDVSdEngN_M_pct
+def: "seed energy germinate normal (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001102
+name: SDVSdEngT_pct
+def: "seed energy germinate thermostat (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001103
+name: VWDI15dInc_Cmp_pct
+def: "15 DAI VW incidence (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001104
+name: VWDIInc_Cmp_pct
+def: "VWDI (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001105
+name: VWDIFlwStgInc_Cmp_pct
+def: "fstage VW incidence (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001106
+name: VWDIMat_Cmp_pct
+def: "mstage VW incidence (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001107
+name: VWDISdgInc_Cmp_pct
+def: "sstage VW incidence (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001108
+name: FUI_Cmp_pct
+def: "FUI (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001109
+name: SGCfr_M_pct
+def: "free gossypol (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001110
+name: FV1RKPltSv_Cmp_pct
+def: "FOV1-RKN plant survival (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001111
+name: FV4PltSv_Cmp_pct
+def: "FOV4 plant survival (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001112
+name: TPBDFlw_Cmp_pct
+def: "TPBD flower (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001113
+name: FAOle_M_pct
+def: "oleic acid (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001114
+name: FAPal_M_pct
+def: "palmitic acid (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001115
+name: AAPhe_M_pct
+def: "phenylalanine (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001116
+name: XamSusPlt_Cmp_pct
+def: "Xam sus plt (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001117
+name: XcmSusPlt_Cmp_pct
+def: "Xcm sus plt (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001118
+name: TBBWPtialLY_Cmp_pct
+def: "TBBW potential LY (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001119
+name: VWDSIdx_Cmp_pct
+def: "VWDS (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001120
+name: VWDI30dInc_Cmp_pct
+def: "30 DAI VW incidence (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001121
+name: VWDS15dIdx_Cmp_pct
+def: "15 DAI VW index (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001122
+name: VWDS30Idx_Cmp_pct
+def: "30 DAI VW index (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001123
+name: VWDSFlwStgIdx_Cmp_pct
+def: "fstage VW index (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001124
+name: VWDSMat_Cmp_pct
+def: "mstage VW index (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001125
+name: VWDSSdgIdx_Cmp_pct
+def: "sstage VW index (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001126
+name: BOR_Cmp_pct
+def: "boll open (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001127
+name: FBNdL_Cmp_cm
+def: "FBNDL (cm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001128
+name: FFBH_M_cm
+def: "first fruit branch position (cm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001129
+name: UQLw_M_cm
+def: "UQLw (cm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001130
+name: L2L_M_cm
+def: "2nd lobe length (cm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001131
+name: L3L_M_cm
+def: "3rd lobe length (cm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001132
+name: L1L_M_cm
+def: "main lobe length (cm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001133
+name: L2W_M_cm
+def: "2nd lobe width (cm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001134
+name: L3W_M_cm
+def: "3rd lobe width (cm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001135
+name: L1W_M_cm
+def: "main lobe width (cm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001136
+name: FV1RKPltH_M_cm
+def: "FOV1-RKN plant height (cm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001137
+name: FV4PltH_M_cm
+def: "FOV4 plant height (cm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001138
+name: PH_M_cm
+def: "plant height (cm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001139
+name: FS_M_cNtex
+def: "T1 (cN/tex)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001140
+name: SGCp_M
+def: "gossypol plus
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001141
+name: SGCm_M
+def: "gossypol minus
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001142
+name: L2L3A_M_degree
+def: "angle between 2nd and 3rd lobes (∞)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001143
+name: L1L2A_M_degree
+def: "angle between main and 2nd lobes (∞)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001144
+name: BWt_Cmp_g
+def: "BWT (g)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+[Term]
+id: COTTON:0001145
+name: SKI_M_g
+def: "SKI (g)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001146
+name: FNS_M_g
+def: "FNS (g)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001147
+name: SFCw_M_g
+def: "SFCw (g)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001148
+name: FNC_M_g1
+def: "FNC (g-1)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001149
+name: SCNC_M_g1
+def: "seed coat nep (g-1)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001150
+name: TNC_M_g1
+def: "total nep (g-1)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001151
+name: LY_M_gplt
+def: "LY (g/plant)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001152
+name: SCY_M_gplant
+def: "SCY (g/plant)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001153
+name: LY_M_gplot
+def: "LY (g/plot)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001154
+name: SCY_M_gplot
+def: "SCY (g/plot)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001155
+name: FST0_M_gtex
+def: "T0 (g/tex)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001156
+name: FS_M_gtex
+def: "T1 (g/tex)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001157
+name: Boll50_E_day
+def: "days to 50% boll opening"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001158
+name: Boll50S_E_day
+def: "days sowing to 50% boll opening"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001159
+name: DOE50_E_day
+def: "days to 50% seed germinating"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001160
+name: FLW50_E_day
+def: "days to 50% flowering"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001161
+name: DOFB_E_day
+def: "days flowering to boll open"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001162
+name: UHML_M_inch
+def: "UHML (inch)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001163
+name: FLn_M_inch
+def: "FLn (inch)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001164
+name: FLw_M_inch
+def: "FLw (inch)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001165
+name: FCG_E_idx
+def: "FCG"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001166
+name: LY_M_kgha
+def: "LY (kg/ha)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001167
+name: SCY_M_kgha
+def: "SCY (kg/ha)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001168
+name: SY_Cmp_lbacre
+def: "SY (lb/acre)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001169
+name: LY_Cmp_lbacre
+def: "LY (lb/acre)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001170
+name: SCY_M_lbacre
+def: "SCY (lb/acre)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001171
+name: BConcLf_M_mgkg
+def: "leaf BCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001172
+name: BConcSd_M_mgkg
+def: "seed BCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001173
+name: BConcStm_M_mgkg
+def: "stem BCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001174
+name: CaConcLf_M_mgkg
+def: "leaf CACONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001175
+name: CaConcSd_M_mgkg
+def: "seed CACONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001176
+name: CaConcStm_M_mgkg
+def: "stem CACONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001177
+name: CuConcLf_M_mgkg
+def: "leaf CUCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001178
+name: CuConcSd_M_mgkg
+def: "seed CUCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001179
+name: CuConcStm_M_mgkg
+def: "stem CUCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001180
+name: FeConcLf_M_mgkg
+def: "leaf FECONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001181
+name: FeConcSd_M_mgkg
+def: "seed FECONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001182
+name: FeConcStm_M_mgkg
+def: "stem FECONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001183
+name: KConcSd_M_mgkg
+def: "seed KCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001184
+name: KConcStm_M_mgkg
+def: "stem KCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001185
+name: MgConcLf_M_mgkg
+def: "leaf MGCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001186
+name: MgConcSd_M_mgkg
+def: "seed MGCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001187
+name: MgConcStm_M_mgkg
+def: "stem MGCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001188
+name: MnConcLf_M_mgkg
+def: "leaf MNCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001189
+name: MnConcSd_M_mgkg
+def: "seed MNCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001190
+name: MnConcStm_M_mgkg
+def: "stem MNCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001191
+name: NaConcLf_M_mgkg
+def: "leaf NACONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001192
+name: NaConcSd_M_mgkg
+def: "seed NACONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001193
+name: NaConcStm_M_mgkg
+def: "stem NACONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001194
+name: PConcLf_M_mgkg
+def: "leaf PCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001195
+name: PConcSd_M_mgkg
+def: "seed PCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001196
+name: PConcStm_M_mgkg
+def: "stem PCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001197
+name: SConcLf_M_mgkg
+def: "leaf SCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001198
+name: SConcSd_M_mgkg
+def: "seed SCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001199
+name: SConcStm_M_mgkg
+def: "stem SCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001200
+name: ZnConcLf_M_mgkg
+def: "leaf ZNCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001201
+name: ZnConcSd_M_mgkg
+def: "seed ZNCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001202
+name: ZnConcStm_M_mgkg
+def: "stem ZNCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001203
+name: MnConcPeti_M_mgkg
+def: "petiole MNCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001204
+name: MnConcRt_M_mgkg
+def: "root MNCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001205
+name: PConcPeti_M_mgkg
+def: "petiole PCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001206
+name: PConcRt_M_mgkg
+def: "root PCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001207
+name: BConcPeti_M_mgkg
+def: "petiole BCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001208
+name: BConcRt_M_mgkg
+def: "root BCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001209
+name: CaConcPeti_M_mgkg
+def: "petiole CACONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001210
+name: CaConcRt_M_mgkg
+def: "root CACONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001211
+name: CuConcPeti_M_mgkg
+def: "petiole CUCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001212
+name: CuConcRt_M_mgkg
+def: "root CUCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001213
+name: FeConcPeti_M_mgkg
+def: "petiole FECONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001214
+name: FeConcRt_M_mgkg
+def: "root FECONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001215
+name: MgConcPeti_M_mgkg
+def: "petiole MGCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001216
+name: MgConcRt_M_mgkg
+def: "root MGCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001217
+name: KConcLf_M_mgkg
+def: "leaf KCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001218
+name: KConcPeti_M_mgkg
+def: "petiole KCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001219
+name: KConcRt_M_mgkg
+def: "root KCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001220
+name: NaConcPeti_M_mgkg
+def: "petiole NACONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001221
+name: NaConcRt_M_mgkg
+def: "root NACONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001222
+name: SConcPeti_M_mgkg
+def: "petiole SCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001223
+name: SConcRt_M_mgkg
+def: "root SCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001224
+name: ZnConcPeti_M_mgkg
+def: "petiole ZNCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001225
+name: ZnConcRt_M_mgkg
+def: "root ZNCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001226
+name: FL_M_mm
+def: "FL (mm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001227
+name: UHML_M_mm
+def: "UHML (mm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001228
+name: FLw_M_mm
+def: "FLw (mm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001229
+name: StmD_M_mm
+def: "main stem diameter (mm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001230
+name: SL2.5_M_mm
+def: "SL2.5 (mm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001231
+name: SL50_M_mm
+def: "SL50 (mm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001232
+name: AreoA_M_mm2mm3
+def: "AREOA (mm2/mm3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001233
+name: AreoAH_M_mm2mm3
+def: "AREOAH (mm2/mm3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001234
+name: FFBN0_Cnt_num
+def: "ffb pos by node coty 0
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001235
+name: FFBN1_Cnt_num
+def: "ffb pos by node coty 1
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001236
+name: SFCn_M_num
+def: "SFCn (g)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001217
+name: KConcLf_M_mgkg
+def: "leaf KCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001218
+name: KConcPeti_M_mgkg
+def: "petiole KCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001219
+name: KConcRt_M_mgkg
+def: "root KCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001220
+name: NaConcPeti_M_mgkg
+def: "petiole NACONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001221
+name: NaConcRt_M_mgkg
+def: "root NACONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001222
+name: SConcPeti_M_mgkg
+def: "petiole SCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001223
+name: SConcRt_M_mgkg
+def: "root SCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001224
+name: ZnConcPeti_M_mgkg
+def: "petiole ZNCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001225
+name: ZnConcRt_M_mgkg
+def: "root ZNCONC (mg/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001226
+name: FL_M_mm
+def: "FL (mm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001227
+name: UHML_M_mm
+def: "UHML (mm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001228
+name: FLw_M_mm
+def: "FLw (mm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001229
+name: StmD_M_mm
+def: "main stem diameter (mm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001230
+name: SL2.5_M_mm
+def: "SL2.5 (mm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001231
+name: SL50_M_mm
+def: "SL50 (mm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001232
+name: AreoA_M_mm2mm3
+def: "AREOA (mm2/mm3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001233
+name: AreoAH_M_mm2mm3
+def: "AREOAH (mm2/mm3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001234
+name: FFBN0_Cnt_num
+def: "ffb pos by node coty 0
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001235
+name: FFBN1_Cnt_num
+def: "ffb pos by node coty 1
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001236
+name: SFCn_M_num
+def: "SFCn (g)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001237
+name: KNaConcRLf_Cmp_ratio
+def: "leaf KNACONCR"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001238
+name: KNaConcPeti_Cmp_ratio
+def: "petiole KNACONCR"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001239
+name: KNaConcRt_Cmp_ratio
+def: "root KNACONCR"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001240
+name: KNaConcSd_Cmp_ratio
+def: "seed KNACONCR"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001241
+name: KNaConcStm_Cmp_ratio
+def: "stem KNACONCR"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001242
+name: MIC_M_unit
+def: "MIC (unit)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001243
+name: FSAFIS_M_unit
+def: "fiber tenacity (unit)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001244
+name: SNPA_Cmp_macre
+def: "SNPA (million/acre)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001245
+name: FD_Cmp_nummm2
+def: "FD (num/mm2)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001246
+name: FNPS_Cmp_numsd
+def: "FNPS HVI (num/seed)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001247
+name: DTB_Cnt_numcm
+def: "trichome density on bract (num/cm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001248
+name: FS_M_kNmkg
+def: "FS (kNm/kg)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001249
+name: LY_M_gboll
+def: "LY (g/boll)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001250
+name: ChlLf_M_mgg
+def: "leaf chlorophyll content (mg/g)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001251
+name: PH_M_m
+def: "plant height (m)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001252
+name: FF_M_mNTex
+def: "FF (mTx)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001253
+name: YS_M_mN_tex
+def: "YS (mN/tex)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001254
+name: Cb_M_read
+def: "b (read)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001255
+name: BNect_E_0to3
+def: "boll nectaries (0-3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001256
+name: BrNect_E_0to3
+def: "bract nectaries (0-3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001257
+name: BrTSz_E_0to3
+def: "bract teeth size (0-3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001258
+name: LfGl_E_0to3
+def: "leaf gossypol glands (0-3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001259
+name: StmGsp_M_0to3
+def: "stem gossypol glands (0-3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001260
+name: PetSpt_E_0to3
+def: "petal spot (0-3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001261
+name: BollGl_E_0to3
+def: "boll gossypol glands (0-3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001262
+name: PltCol_E_0to3
+def: "plant color (0-3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001263
+name: FlwSc_E_0to4
+def: "flowering score (0-4)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001264
+name: SdFzGd_E_0to4
+def: "seed fuzz grade (0-4)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001265
+name: FV1RKLf_E_0to5R
+def: "FOV1-RKN FS (0-5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001266
+name: FV4Lf_E_0to5R
+def: "FOV4 FS (0-5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001267
+name: FV1RKRt_E_0to5R
+def: "FOV1-RKN RVS (0-5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001268
+name: FV4Rt_E_0to5R
+def: "FOV4 RVS (0-5)
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001269
+name: Product_E_0to5
+def: "productiveness (0-5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001270
+name: PlotHomo_E_0to5
+def: "population homogeneity (0-5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001271
+name: LfNect_E_0to6
+def: "leaf nect (0-6)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001272
+name: PlotStd_E_0to6
+def: "plot plant stand (0-6)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001273
+name: SdFzCol_E_0to7
+def: "seed fuzz color (0-7)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001274
+name: XamSusIdx_E_0to9R
+def: "Xam sus index (0-9)
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001275
+name: LSTDS_E_1to10R
+def: "LSTDS (1-10)
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001276
+name: FS_E_1to2
+def: "FS (1-2)
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001277
+name: LP_E_1to2
+def: "LP (1-2)
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001278
+name: SOC_E_1to2
+def: "SOC (1-2)
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001279
+name: SPC_E_1to2
+def: "SPC (1-2)
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001280
+name: BPnt_E_1to3
+def: "boll point (1-3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001281
+name: BrCol_E_1to3
+def: "bract color (1-3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001282
+name: FrtTp_E_1to3
+def: "fruiting type (1-3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001283
+name: BrTN_E_1to3
+def: "bract teeth number (1-3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001284
+name: FF_E_1to3
+def: "FF (1-3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001285
+name: XamPltRespE_1to3
+def: "Xam resist (1-3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001286
+name: XcmPltRespE_1to3
+def: "Xcm resist (1-3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001287
+name: SdTp_E_1to3
+def: "seed type (1-3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001288
+name: StmCol_E_1to3
+def: "stem color (1-3)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001289
+name: BPit_E_1to4
+def: "boll pitting (1-4)
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001290
+name: BrTp_E_1to4
+def: "bract type (1-4)
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001291
+name: CnpTp_E_1to4
+def: "canopy type (1-4,)
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001292
+name: SalT_E_1to4
+def: "salinity tolerance (1-4)
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001293
+name: WetT_E_1to4
+def: "wet tolerance (1-4)
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001294
+name: DrtT_E_1to4
+def: "drought tolerance (1-4)
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001295
+name: BollSz_E_1to4
+def: "boll size (1-4)
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001296
+name: LfSz_E_1to4
+def: "leaf size (1-4)
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001297
+name: StgmTp_E_1to4
+def: "stigma exsertion (1-4)
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001298
+name: BollSp_E_1to5
+def: "boll shape (1-5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001299
+name: PM_E_1to5
+def: "plot maturity (1-5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001300
+name: CTBWR_E_1to5
+def: "cotton bollworm resist (1-5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001301
+name: FWR_E_1to5
+def: "fusarium wilt resist (1-5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001302
+name: APR_E_1to5
+def: "aphid resist (1-5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001303
+name: ANR_E_1to5
+def: "anthracnose resist (1-5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001304
+name: PKBWR_E_1to5
+def: "pink bollworm resist (1-5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001305
+name: SPMR_E_1to5
+def: "spider mite resist (1-5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001306
+name: VWR_E_1to5
+def: "verticillium wilt resist (1-5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001307
+name: PS_E_1to5
+def: "plant shape (1-5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001308
+name: PMGw_E_1to5
+def: "plot growth stage (1-5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001309
+name: FL_E_1to5
+def: "FL (1-5)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001310
+name: FlmCol_E_1to6
+def: "filament color (1-6)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001311
+name: LFCL_E_1to6
+def: "lesf color (1-6)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001312
+name: LSTDS_E_1to6R
+def: "LSTDS (1-6)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001313
+name: DTL_E_1to6
+def: "trichome density on leaf (1-6)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001314
+name: DTS_E_1to6
+def: "trichome density on stem (1-6)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001315
+name: LclNPB_E_1to6
+def: "locule number per boll (1-6)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001316
+name: BollCol_E_1to7
+def: "boll color (1-7)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001317
+name: BrSp_E_1to7
+def: "bract shape (1-7)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001318
+name: DTP_E_1to7
+def: "trichome density on plant (1-7)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001319
+name: DTS_E_1to7R
+def: "trichome density on stem
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001320
+name: LfSp_E_1to7
+def: "leaf shape (1-8)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001321
+name: PH_E_1to8
+def: "plant height (1-8)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001322
+name: LintCol_E_1to9
+def: "lint color (1-9)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001323
+name: DTL_E_1to9R
+def: "trichome density on leaf"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001324
+name: DTS_E_1to9R
+def: "trichome density on stem"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001325
+name: PetCol_E_1to9
+def: "petal color (1-9)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001326
+name: PollCol_E_1to9
+def: "pollen color (1-9)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001327
+name: BN_Cnt_bllplt
+def: "BN per plant"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001328
+name: MonoBrh_Cnt_brh
+def: "num of mono-branch"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001329
+name: SymBrh_Cnt_brh
+def: "num of sym-branch"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001330
+name: SI_M_g1000Sd
+def: "SI 1000 Seed (g)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001331
+name: LI_Cmp_g100sd
+def: "LI (g/100seed)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001332
+name: SCI_M_g100sd
+def: "SCI (g)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001333
+name: SI_M_g100Sd
+def: "SI (g)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001334
+name: FSCI_M_idx
+def: "FSCI"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001335
+name: TBBWLY_M_lb/a
+def: "TBBW LY (lb/a)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001336
+name: TBBWcLY_M_lba
+def: "TBBW-c LY (lb/a)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001337
+name: LBN_Cnt_text
+def: "leaf lobes"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001338
+name: StmNN_Cnt_ndMstm
+def: "num of main stem node"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001339
+name: StmNN_Cnt_ndAstm
+def: "num of all stem node"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001340
+name: FBNdN_Cmp_ndbrh
+def: "num of fb nodes"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001341
+name: FV1RKNd_Cnt_num
+def: "FOV1-RKN num of stem node"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001342
+name: FV4Nd_Cnt_num
+def: "FOV4 num of stem node"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001343
+name: SNPB_Cmp_sdbll
+def: "SNPB"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001344
+name: FP_M_um
+def: "FP (μm)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0001345
+name: FMR_M_pct
+def: "FMR (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
