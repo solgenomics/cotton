@@ -97,6 +97,7 @@ name: AACys_E_pct
 def: "cysteine (%)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001080
@@ -118,6 +119,7 @@ name: AAGly_M_pct
 def: "glycine (%)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001083
@@ -125,6 +127,7 @@ name: AAIle_M_pct
 def: "isoleucine (%)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001084
@@ -132,6 +135,7 @@ name: AALeu_M_pct
 def: "leucine (%)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001085
@@ -139,6 +143,7 @@ name: FALin_M_pct
 def: "linolenic acid (%)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001086
@@ -174,6 +179,7 @@ name: AAArg_M_pct
 def: "arginine (%)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001091
@@ -181,6 +187,7 @@ name: AAAsp_M_pct
 def: "aspartic acid (%)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001092
@@ -188,6 +195,7 @@ name: AASer_M_pct
 def: "serine (%)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001093
@@ -195,6 +203,7 @@ name: FASte_M_pct
 def: "stearic acid (%)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001094
@@ -209,6 +218,7 @@ name: AAVal_M_pct
 def: "valine (%)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001096
@@ -349,6 +359,7 @@ name: AAPhe_M_pct
 def: "phenylalanine (%)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001116
@@ -552,6 +563,7 @@ name: BWt_Cmp_g
 def: "BWT (g)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
 [Term]
 id: COTTON:0001145
 name: SKI_M_g
@@ -740,6 +752,7 @@ name: BConcLf_M_mgkg
 def: "leaf BCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001172
@@ -747,6 +760,7 @@ name: BConcSd_M_mgkg
 def: "seed BCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001173
@@ -754,6 +768,7 @@ name: BConcStm_M_mgkg
 def: "stem BCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001174
@@ -761,6 +776,7 @@ name: CaConcLf_M_mgkg
 def: "leaf CACONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001175
@@ -768,6 +784,7 @@ name: CaConcSd_M_mgkg
 def: "seed CACONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001176
@@ -775,6 +792,7 @@ name: CaConcStm_M_mgkg
 def: "stem CACONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001177
@@ -782,6 +800,7 @@ name: CuConcLf_M_mgkg
 def: "leaf CUCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001178
@@ -789,6 +808,7 @@ name: CuConcSd_M_mgkg
 def: "seed CUCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001179
@@ -796,6 +816,7 @@ name: CuConcStm_M_mgkg
 def: "stem CUCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001180
@@ -803,6 +824,7 @@ name: FeConcLf_M_mgkg
 def: "leaf FECONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001181
@@ -810,6 +832,7 @@ name: FeConcSd_M_mgkg
 def: "seed FECONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001182
@@ -817,6 +840,7 @@ name: FeConcStm_M_mgkg
 def: "stem FECONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001183
@@ -824,6 +848,7 @@ name: KConcSd_M_mgkg
 def: "seed KCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001184
@@ -831,6 +856,7 @@ name: KConcStm_M_mgkg
 def: "stem KCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001185
@@ -838,6 +864,7 @@ name: MgConcLf_M_mgkg
 def: "leaf MGCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001186
@@ -845,6 +872,7 @@ name: MgConcSd_M_mgkg
 def: "seed MGCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001187
@@ -852,6 +880,7 @@ name: MgConcStm_M_mgkg
 def: "stem MGCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001188
@@ -859,6 +888,7 @@ name: MnConcLf_M_mgkg
 def: "leaf MNCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001189
@@ -866,6 +896,7 @@ name: MnConcSd_M_mgkg
 def: "seed MNCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001190
@@ -873,6 +904,7 @@ name: MnConcStm_M_mgkg
 def: "stem MNCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001191
@@ -880,6 +912,7 @@ name: NaConcLf_M_mgkg
 def: "leaf NACONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001192
@@ -887,6 +920,7 @@ name: NaConcSd_M_mgkg
 def: "seed NACONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001193
@@ -894,6 +928,7 @@ name: NaConcStm_M_mgkg
 def: "stem NACONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001194
@@ -901,6 +936,7 @@ name: PConcLf_M_mgkg
 def: "leaf PCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001195
@@ -908,6 +944,7 @@ name: PConcSd_M_mgkg
 def: "seed PCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001196
@@ -915,6 +952,7 @@ name: PConcStm_M_mgkg
 def: "stem PCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001197
@@ -922,6 +960,7 @@ name: SConcLf_M_mgkg
 def: "leaf SCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001198
@@ -929,6 +968,7 @@ name: SConcSd_M_mgkg
 def: "seed SCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001199
@@ -936,6 +976,7 @@ name: SConcStm_M_mgkg
 def: "stem SCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001200
@@ -943,6 +984,7 @@ name: ZnConcLf_M_mgkg
 def: "leaf ZNCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001201
@@ -950,6 +992,7 @@ name: ZnConcSd_M_mgkg
 def: "seed ZNCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001202
@@ -957,6 +1000,7 @@ name: ZnConcStm_M_mgkg
 def: "stem ZNCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001203
@@ -964,6 +1008,7 @@ name: MnConcPeti_M_mgkg
 def: "petiole MNCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001204
@@ -971,6 +1016,7 @@ name: MnConcRt_M_mgkg
 def: "root MNCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001205
@@ -978,6 +1024,7 @@ name: PConcPeti_M_mgkg
 def: "petiole PCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001206
@@ -985,6 +1032,7 @@ name: PConcRt_M_mgkg
 def: "root PCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001207
@@ -992,6 +1040,7 @@ name: BConcPeti_M_mgkg
 def: "petiole BCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001208
@@ -999,6 +1048,7 @@ name: BConcRt_M_mgkg
 def: "root BCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001209
@@ -1006,6 +1056,7 @@ name: CaConcPeti_M_mgkg
 def: "petiole CACONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001210
@@ -1013,6 +1064,7 @@ name: CaConcRt_M_mgkg
 def: "root CACONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001211
@@ -1020,6 +1072,7 @@ name: CuConcPeti_M_mgkg
 def: "petiole CUCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001212
@@ -1027,6 +1080,7 @@ name: CuConcRt_M_mgkg
 def: "root CUCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001213
@@ -1034,6 +1088,7 @@ name: FeConcPeti_M_mgkg
 def: "petiole FECONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001214
@@ -1041,6 +1096,7 @@ name: FeConcRt_M_mgkg
 def: "root FECONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001215
@@ -1048,6 +1104,7 @@ name: MgConcPeti_M_mgkg
 def: "petiole MGCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001216
@@ -1055,6 +1112,7 @@ name: MgConcRt_M_mgkg
 def: "root MGCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001217
@@ -1062,6 +1120,7 @@ name: KConcLf_M_mgkg
 def: "leaf KCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001218
@@ -1069,6 +1128,7 @@ name: KConcPeti_M_mgkg
 def: "petiole KCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001219
@@ -1076,6 +1136,7 @@ name: KConcRt_M_mgkg
 def: "root KCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001220
@@ -1083,6 +1144,7 @@ name: NaConcPeti_M_mgkg
 def: "petiole NACONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001221
@@ -1090,6 +1152,7 @@ name: NaConcRt_M_mgkg
 def: "root NACONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001222
@@ -1097,6 +1160,7 @@ name: SConcPeti_M_mgkg
 def: "petiole SCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001223
@@ -1104,6 +1168,7 @@ name: SConcRt_M_mgkg
 def: "root SCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001224
@@ -1111,6 +1176,7 @@ name: ZnConcPeti_M_mgkg
 def: "petiole ZNCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001225
@@ -1118,146 +1184,7 @@ name: ZnConcRt_M_mgkg
 def: "root ZNCONC (mg/kg)"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001226
-name: FL_M_mm
-def: "FL (mm)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001227
-name: UHML_M_mm
-def: "UHML (mm)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001228
-name: FLw_M_mm
-def: "FLw (mm)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001229
-name: StmD_M_mm
-def: "main stem diameter (mm)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001230
-name: SL2.5_M_mm
-def: "SL2.5 (mm)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001231
-name: SL50_M_mm
-def: "SL50 (mm)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001232
-name: AreoA_M_mm2mm3
-def: "AREOA (mm2/mm3)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001233
-name: AreoAH_M_mm2mm3
-def: "AREOAH (mm2/mm3)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001234
-name: FFBN0_Cnt_num
-def: "ffb pos by node coty 0
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001235
-name: FFBN1_Cnt_num
-def: "ffb pos by node coty 1
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001236
-name: SFCn_M_num
-def: "SFCn (g)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001217
-name: KConcLf_M_mgkg
-def: "leaf KCONC (mg/kg)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001218
-name: KConcPeti_M_mgkg
-def: "petiole KCONC (mg/kg)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001219
-name: KConcRt_M_mgkg
-def: "root KCONC (mg/kg)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001220
-name: NaConcPeti_M_mgkg
-def: "petiole NACONC (mg/kg)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001221
-name: NaConcRt_M_mgkg
-def: "root NACONC (mg/kg)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001222
-name: SConcPeti_M_mgkg
-def: "petiole SCONC (mg/kg)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001223
-name: SConcRt_M_mgkg
-def: "root SCONC (mg/kg)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001224
-name: ZnConcPeti_M_mgkg
-def: "petiole ZNCONC (mg/kg)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
-
-[Term]
-id: COTTON:0001225
-name: ZnConcRt_M_mgkg
-def: "root ZNCONC (mg/kg)"
-namespace: cotton_trait
-relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001226
@@ -1342,6 +1269,7 @@ name: KNaConcRLf_Cmp_ratio
 def: "leaf KNACONCR"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001238
@@ -1349,6 +1277,7 @@ name: KNaConcPeti_Cmp_ratio
 def: "petiole KNACONCR"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001239
@@ -1356,6 +1285,7 @@ name: KNaConcRt_Cmp_ratio
 def: "root KNACONCR"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001240
@@ -1363,6 +1293,7 @@ name: KNaConcSd_Cmp_ratio
 def: "seed KNACONCR"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001241
@@ -1370,6 +1301,7 @@ name: KNaConcStm_Cmp_ratio
 def: "stem KNACONCR"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+is_obsolete: true
 
 [Term]
 id: COTTON:0001242
@@ -2096,5 +2028,47 @@ relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
 id: COTTON:0001345
 name: FMR_M_pct
 def: "FMR (%)"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0002000
+name: PtlCnt_Cnt_num
+def: "petal count on a single flower"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0002001
+name: StgmCnt_Cnt_num
+def: "stigma count on a single flower"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0002002
+name: AthrNmbr_E_num
+def: "anther number (estimated) on a single flower"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0002003
+name: LclNmbr_Cnt_num
+def: "locule (carpel) number on a single flower"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0002004
+name: FlwrOpnDt_M_date
+def: "flowering opening date of a single flower"
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0002005
+name: CndlstckDt_M_date
+def: "fandlestick date of a single flower"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
