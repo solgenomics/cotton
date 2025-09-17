@@ -2072,3 +2072,39 @@ name: CndlstckDt_M_date
 def: "fandlestick date of a single flower"
 namespace: cotton_trait
 relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0002006
+name: FlwrCntDrn_M_num
+def: "Flower count derived from running a computer vision model on a captured drone flight."
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0002007
+name: FrstFlwrDt_M_date
+def: "First flower date captured manually by walking through the field and observing plots."
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0002008
+name: CttDt_M_date
+def: "Last flowering, or flower cutout/cutoff date captured by manually walking through the field and observing plots."
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0002009
+name: FrstFlwerDAP_M_num
+def: "Days to first flower, described in terms of days after planting."
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
+[Term]
+id: COTTON:0002010
+name: CttDAP_M_num
+def: "Days to flower cutout/cutoff, described in terms of days after planting."
+namespace: cotton_trait
+relationship: variable_of COTTON:0000000 ! Cotton Trait Ontology
+
